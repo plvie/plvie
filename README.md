@@ -6,8 +6,13 @@
 
 ###
 
-<p align="center">[CryptoHack](https://cryptohack.org/user/Garab/)<br>[RootMe](https://www.root-me.org/Garab)</p>
-
+<p align="center">
+  <href link="https://cryptohack.org/user/Garab/">
+  CryptoHack
+  </href>  
+  <href link="https://www.root-me.org/Garab">
+  RootMe
+  </href>
 ###
 
 <h3 align="center">🎓 Projects</h3>
