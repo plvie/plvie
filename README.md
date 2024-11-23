@@ -22,7 +22,7 @@
 
 ###
 
-<p align="center">Explore my school projects here.</p>
+<p align="center">Explore my school projects </p> <a href="https://github.com/plvie/school_project"> here </a> .
 
 ###
 
