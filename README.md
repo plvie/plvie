@@ -1,10 +1,7 @@
 <!-- Banner / aesthetic header -->
 <p align="center">
   <!--<img src="https://i.imgur.com/5Li1pya.gif" width="200px" alt="Avatar"><br><br> -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&center=true&vCenter=true&width=435&lines=+Hi+I'm+Paul+Vi%C3%A9+aka+Garab;CTF+player+(mostly+crypto);Student+%40+T%C3%A9l%C3%A9com+Paris;Love+low-level+or+math+optimizations;Working+currently+on+lattice+crypto" 
-         alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=150&lines=Hi+I'm+Paul+Vi%C3%A9+aka+Garab;CTF+player+(mostly+crypto);Student+%40+T%C3%A9l%C3%A9com+Paris;Do+low-level+or+math+optimizations;Working+currently+on+lattice+crypto" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -15,11 +12,9 @@
 
 
 ## About Me
-
-- 🔐 **Passionate** about cryptography, lattices, and post-quantum research  
-- 🏴 **Active CTF player** (specializing in crypto challenges)  
-- ⚡ **Performance optimization**: CUDA, AVX, multithreading  
-- 🔭 **Currently exploring**: elliptic curves, SMT solvers, symbolic reverse engineering, FHE, ZKP, and other math-driven side quests  
+> Cryptography & performance.  
+> I work on lattices, post-quantum crypto, and low-level optimization (GPU/CPU).  
+> I build tools, break things, and chase speed.
 
 ## Find Me Online
 
@@ -48,12 +43,13 @@
   </a>
 </div>
 
+<!--
+
 ## Tech Stack
 
 <div align="center">
   <table align="center" cellspacing="20" cellpadding="10">
     <tr valign="middle">
-      <!-- Icons Grid: 5 rows × 2 columns -->
       <td>
         <table cellspacing="15" cellpadding="5">
           <tr>
@@ -78,10 +74,11 @@
           </tr>
         </table>
       </td>
-      <!-- Vertical Donut Stats -->
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plvie&exclude_repo=plvie.github.io&layout=donut-vertical&theme=tokyonight" alt="Top programming languages" width="240" />
       </td>
     </tr>
   </table>
-</div>
+</div> 
+
+-->
