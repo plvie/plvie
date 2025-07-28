@@ -1,13 +1,11 @@
 <!-- Banner / aesthetic header -->
 <p align="center">
-  <img src="https://i.imgur.com/5Li1pya.gif" width="200px" alt="Avatar"><br><br>
+  <!--<img src="https://i.imgur.com/5Li1pya.gif" width="200px" alt="Avatar"><br><br> -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=300&center=true&vCenter=true&width=435&lines=+Hi+I'm+Paul+Vi%C3%A9+aka+Garab;CTF+player+(mostly+crypto);Student+%40+T%C3%A9l%C3%A9com+Paris;Love+low-level+or+math+optimizations;Working+currently+on+lattice+crypto" 
          alt="Typing SVG" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-🎓-blue?style=for-the-badge" alt="Student Badge" />
@@ -16,16 +14,14 @@
 </p>
 
 
-## 🧠 About Me
+## About Me
 
 - 🔐 **Passionate** about cryptography, lattices, and post-quantum research  
 - 🏴 **Active CTF player** (specializing in crypto challenges)  
 - ⚡ **Performance optimization**: CUDA, AVX, multithreading  
 - 🔭 **Currently exploring**: elliptic curves, SMT solvers, symbolic reverse engineering, FHE, ZKP, and other math-driven side quests  
 
----
-
-## 🌐 Find Me Online
+## Find Me Online
 
 <!-- CTF Platforms -->
 <p align="center">
@@ -51,8 +47,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" height="35" />
   </a>
 </div>
-
----
 
 ## Tech Stack
 
