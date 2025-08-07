@@ -1,7 +1,7 @@
 <!-- Banner / aesthetic header -->
 <p align="center">
   <!--<img src="https://i.imgur.com/5Li1pya.gif" width="200px" alt="Avatar"><br><br> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=150&lines=Hi+I'm+Paul+Vi%C3%A9+aka+Garab;CTF+player+(mostly+crypto);Student+%40+T%C3%A9l%C3%A9com+Paris;Do+low-level+or+math+optimizations;Working+currently+on+lattice+crypto" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=150&lines=Hi+I'm+Paul+Vi%C3%A9+aka+Garab;CTF+player+(mostly+crypto);Student+%40+T%C3%A9l%C3%A9com+Paris;Working+currently+on+lattice+crypto" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## About Me
 > Cryptography & performance.  
 > I work on lattices, post-quantum crypto, and low-level optimization (GPU/CPU).  
-> I build tools, break things, and chase speed.
+> I build tools, break things, and hopefully chase speed.
 
 ## Find Me Online
 
