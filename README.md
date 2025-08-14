@@ -12,9 +12,9 @@
 
 
 ## About Me
-> Cryptography & performance.  
-> I work on lattices, post-quantum crypto, and low-level optimization (GPU/CPU).  
-> I build tools, break things, and hopefully chase speed.
+> Cryptography & performance.
+> I work on lattices, post-quantum cryptography, elliptic curves, and low-level stuff (reverse engineering & optimization).
+> I build tools, break things, and chase performance.
 
 ## Find Me Online
 
