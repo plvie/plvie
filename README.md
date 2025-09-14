@@ -1,20 +1,3 @@
-<!-- Banner / aesthetic header -->
-<p align="center">
-  <!--<img src="https://i.imgur.com/5Li1pya.gif" width="200px" alt="Avatar"><br><br> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=150&lines=Hi+I'm+Paul+Vi%C3%A9+aka+Garab;CTF+player+(mostly+crypto);Student+%40+T%C3%A9l%C3%A9com+Paris;Working+currently+on+lattice+crypto" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Student-🎓-blue?style=for-the-badge" alt="Student Badge" />
-  <img src="https://img.shields.io/badge/CTF%20Player-🏴-green?style=for-the-badge" alt="CTF Badge" />
-  <img src="https://img.shields.io/badge/Crypto-🔐-purple?style=for-the-badge" alt="Crypto Badge" />
-</p>
-
-
-## About Me
-> Cryptography & performance.
-> I work on lattices, post-quantum cryptography, elliptic curves, and low-level stuff (reverse engineering & optimization).
-
 ## Find Me Online
 
 <!-- CTF Platforms -->
@@ -41,43 +24,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" alt="LinkedIn" height="35" />
   </a>
 </div>
-
-<!--
-
-## Tech Stack
-
-<div align="center">
-  <table align="center" cellspacing="20" cellpadding="10">
-    <tr valign="middle">
-      <td>
-        <table cellspacing="15" cellpadding="5">
-          <tr>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/></td>
-          </tr>
-          <tr>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height="40" alt="C++"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="OCaml"/></td>
-          </tr>
-          <tr>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/></td>
-          </tr>
-          <tr>
-            <td><img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="40" alt="Rust"/></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/></td>
-          </tr>
-          <tr>
-            <td><img src="https://avatars.githubusercontent.com/u/23187665?s=280&v=4" height="40" alt="CuPy"/></td>
-            <td><img src="https://www.svgrepo.com/download/373541/cuda.svg" height="40" alt="CUDA"/></td>
-          </tr>
-        </table>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plvie&exclude_repo=plvie.github.io&layout=donut-vertical&theme=tokyonight" alt="Top programming languages" width="240" />
-      </td>
-    </tr>
-  </table>
-</div> 
-
--->
